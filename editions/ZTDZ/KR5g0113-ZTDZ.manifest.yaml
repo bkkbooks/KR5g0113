@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0113/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0113/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 贛州聖濟廟靈跡理
+  date: '2015-08-29 02:54:20.485777'
+  source:
+    repository: kanripo
+    path: KR5g0113
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0113_000-ZTDZ.yaml, hash: 'sha256:fccf6c7d05f83f6d0c8e50f61eb960f41a1d8b4be3c24f33646e2d89e849ff7a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0113_000-ZTDZ.markers.yaml, hash: 'sha256:204e3e662afe2f53b2941b19ae45d123f03c9a4cc3472a1eebd31a18baece720'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0113_SJB_000-320841b
+    span:
+    - body
+    - 0
+    - 1698
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a9ef61d65f54ac996f8fef3cc8d98a333916ad42d101818ded716d1e5f0b150d
